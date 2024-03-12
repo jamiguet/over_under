@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+ou_venv/
+.idea/
+*.xml
